@@ -1,0 +1,2 @@
+WINE is a compatibility layer for running Windows applications on Linux.
+Applications are run at full speed without the need of cpu emulation. Wine does not require Microsoft Windows, however it can use native system dll files in place of its own if they are available.

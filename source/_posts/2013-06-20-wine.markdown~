@@ -12,10 +12,10 @@ With Wine, we can install and run these applications just like we do in Windows.
 Installation Steps for Wine in ubuntu:
 
 [1]
-   sudo add-apt-repository ppa:ubuntu-wine/ppa
-   sudo apt-get update
-   sudo apt-get install wine
-   sudo apt-get install winetricks
+	sudo add-apt-repository ppa:ubuntu-wine/ppa
+	sudo apt-get update
+	sudo apt-get install wine
+	sudo apt-get install winetricks
 
 
 To use wine,we need to configure first using following command on terminal:

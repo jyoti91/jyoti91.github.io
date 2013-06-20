@@ -27,7 +27,7 @@ To use wine,we need to configure first using following command on terminal:
 
 The WINE configuration window will pop up. Click OK to close the window. You can now find a .wine folder in your Home directory (if you can’t see it, go to View and check “Show Hidden Files“).
 
-<h2>ISTALLING APPLICATION using wine:</h2>
+<h2>INSTALLING APPLICATION using wine:</h2>
 
         1.Download the Windows application you wish to install and 
           place it in a convenient directory.

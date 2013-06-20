@@ -4,7 +4,7 @@
   <title><![CDATA[JYOTI's BLOG..]]></title>
   <link href="http://jyoti91.github.io/atom.xml" rel="self"/>
   <link href="http://jyoti91.github.io/"/>
-  <updated>2013-06-20T17:43:46+05:30</updated>
+  <updated>2013-06-20T18:02:19+05:30</updated>
   <id>http://jyoti91.github.io/</id>
   <author>
     <name><![CDATA[Jyoti]]></name>
@@ -44,8 +44,10 @@ With Wine, we can install and run these applications just like we do in Windows.
 <pre><code>    sudo apt-get install winetricks
 </code></pre>
 
-<p>To use wine,we need to configure first using following command on terminal:
-winecfg</p>
+<p>To use wine,we need to configure first using following command on terminal:</p>
+
+<pre><code>    winecfg
+</code></pre>
 
 <p>The WINE configuration window will pop up. Click OK to close the window. You can now find a .wine folder in your Home directory (if you can’t see it, go to View and check “Show Hidden Files“).</p>
 ]]></content>

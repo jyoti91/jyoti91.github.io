@@ -23,6 +23,6 @@ With Wine, we can install and run these applications just like we do in Windows.
 	
 
 To use wine,we need to configure first using following command on terminal:
-winecfg
+        winecfg
 
 The WINE configuration window will pop up. Click OK to close the window. You can now find a .wine folder in your Home directory (if you can’t see it, go to View and check “Show Hidden Files“). 

@@ -4,7 +4,7 @@
   <title><![CDATA[JYOTI's BLOG..]]></title>
   <link href="http://jyoti91.github.io/atom.xml" rel="self"/>
   <link href="http://jyoti91.github.io/"/>
-  <updated>2013-06-20T17:39:48+05:30</updated>
+  <updated>2013-06-20T17:43:46+05:30</updated>
   <id>http://jyoti91.github.io/</id>
   <author>
     <name><![CDATA[Jyoti]]></name>
@@ -21,12 +21,27 @@
     <content type="html"><![CDATA[<p>Wine lets us run Windows software on other operating systems.
 With Wine, we can install and run these applications just like we do in Windows.</p>
 
-<pre><code>   Installation Steps for Wine in ubuntu:
+<pre><code>    Installation Steps for Wine in ubuntu:
 </code></pre>
 
 <p>[1]</p>
 
-<pre><code>sudo add-apt-repository ppa:ubuntu-wine/ppa
+<pre><code>    sudo add-apt-repository ppa:ubuntu-wine/ppa
+</code></pre>
+
+<p>[2]</p>
+
+<pre><code>    sudo apt-get update
+</code></pre>
+
+<p>[3]</p>
+
+<pre><code>    sudo apt-get install wine
+</code></pre>
+
+<p>[4]</p>
+
+<pre><code>    sudo apt-get install winetricks
 </code></pre>
 
 <p>To use wine,we need to configure first using following command on terminal:

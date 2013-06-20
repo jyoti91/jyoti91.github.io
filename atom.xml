@@ -4,7 +4,7 @@
   <title><![CDATA[JYOTI's BLOG..]]></title>
   <link href="http://jyoti91.github.io/atom.xml" rel="self"/>
   <link href="http://jyoti91.github.io/"/>
-  <updated>2013-06-20T19:03:09+05:30</updated>
+  <updated>2013-06-20T19:06:01+05:30</updated>
   <id>http://jyoti91.github.io/</id>
   <author>
     <name><![CDATA[Jyoti]]></name>
@@ -21,8 +21,8 @@
     <content type="html"><![CDATA[<p>Wine lets us run Windows software on other operating systems.
 With Wine, we can install and run these applications just like we do in Windows.</p>
 
-<pre><code>    Installation Steps for Wine in ubuntu:
-</code></pre>
+<h2>Installation Steps for Wine in ubuntu:</h2>
+
 
 <p>[1]</p>
 
@@ -51,7 +51,8 @@ With Wine, we can install and run these applications just like we do in Windows.
 
 <p>The WINE configuration window will pop up. Click OK to close the window. You can now find a .wine folder in your Home directory (if you can’t see it, go to View and check “Show Hidden Files“).</p>
 
-<p><h2>ISTALLING APPLICATION using wine:<h2></p>
+<h2>ISTALLING APPLICATION using wine:</h2>
+
 
 <pre><code>    1.Download the Windows application you wish to install and 
       place it in a convenient directory.

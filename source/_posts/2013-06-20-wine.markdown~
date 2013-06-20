@@ -8,3 +8,15 @@ author: Jyoti
 ---
 Wine lets us run Windows software on other operating systems.
 With Wine, we can install and run these applications just like we do in Windows.
+
+Installation Steps for Wine in ubuntu:
+1.sudo add-apt-repository ppa:ubuntu-wine/ppa
+2.sudo apt-get update
+3.sudo apt-get install wine
+4.sudo apt-get install winetricks
+
+
+To use wine,we need to configure first using following command on terminal:
+winecfg
+
+The WINE configuration window will pop up. Click OK to close the window. You can now find a .wine folder in your Home directory (if you can’t see it, go to View and check “Show Hidden Files“). 

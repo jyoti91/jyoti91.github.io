@@ -4,6 +4,7 @@ title: "wine"
 date: 2013-06-20 16:40
 comments: true
 categories: 
+author: Jyoti
 ---
 Wine lets us run Windows software on other operating systems.
 With Wine, we can install and run these applications just like we do in Windows.

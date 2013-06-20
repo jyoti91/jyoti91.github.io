@@ -4,7 +4,7 @@
   <title><![CDATA[JYOTI's BLOG..]]></title>
   <link href="http://jyoti91.github.io/atom.xml" rel="self"/>
   <link href="http://jyoti91.github.io/"/>
-  <updated>2013-06-20T16:40:16+05:30</updated>
+  <updated>2013-06-20T16:50:33+05:30</updated>
   <id>http://jyoti91.github.io/</id>
   <author>
     <name><![CDATA[Jyoti]]></name>
@@ -18,7 +18,8 @@
     <link href="http://jyoti91.github.io/blog/2013/06/20/wine/"/>
     <updated>2013-06-20T16:40:00+05:30</updated>
     <id>http://jyoti91.github.io/blog/2013/06/20/wine</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Wine lets us run Windows software on other operating systems.
+With Wine, we can install and run these applications just like we do in Windows.</p>
 ]]></content>
   </entry>
   

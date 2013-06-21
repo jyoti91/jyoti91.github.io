@@ -134,7 +134,45 @@
   </header>
 
 
-  <div class="entry-content">
+  <div class="entry-content"><p>First we need a web server to host our PHP pages.so we are first installing Apache2.</p>
+
+<pre><code>    sudo apt-get update
+    sudo apt-get install apache2
+</code></pre>
+
+<p>Now,to test that Apache is working properly,try on ur browser:
+<a href="http://localhost/">http://localhost/</a></p>
+
+<p>There will be a message displayed with &ldquo;IT WORKS!&hellip;&rdquo;</p>
+
+<p>Now,to install PHP use following command on terminal:</p>
+
+<pre><code>    sudo apt-get install php5 libapache2-mod-php5
+</code></pre>
+
+<p>When this is done you are ready.</p>
+
+<p>Let’s go and delete the default page of Apache so we can create our own.</p>
+
+<p>Open a terminal and type:</p>
+
+<pre><code>    sudo rm /var/www/index.html
+</code></pre>
+
+<p>If you want to test that PHP is installed successfully into your system you can write and run a simple PHP script that will return to you the PHP information. So open the terminal and type:</p>
+
+<pre><code>    sudo gedit /var/www/index.php
+</code></pre>
+
+<p>This will open an empty document where we can write our PHP code.
+Next,Restart the web-server by typing:</p>
+
+<pre><code>    sudo /etc/init.d/apache2 restart
+</code></pre>
+
+<p>And point your web browser at: <a href="http://localhost/">http://localhost/</a></p>
+
+<p>You should now be able to see your first PHP page running.</p>
 </div>
   
   

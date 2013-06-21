@@ -4,7 +4,7 @@
   <title><![CDATA[JYOTI's BLOG..]]></title>
   <link href="http://jyoti91.github.io/atom.xml" rel="self"/>
   <link href="http://jyoti91.github.io/"/>
-  <updated>2013-06-22T05:27:14+05:30</updated>
+  <updated>2013-06-22T05:28:51+05:30</updated>
   <id>http://jyoti91.github.io/</id>
   <author>
     <name><![CDATA[Jyoti]]></name>
@@ -71,24 +71,13 @@ With Wine, we can install and run these applications just like we do in Windows.
 <h2>Installation Steps for Wine in ubuntu:</h2>
 
 
-<p>[1]</p>
-
 <pre><code>    sudo add-apt-repository ppa:ubuntu-wine/ppa
-</code></pre>
 
-<p>[2]</p>
+    sudo apt-get update
 
-<pre><code>    sudo apt-get update
-</code></pre>
+    sudo apt-get install wine
 
-<p>[3]</p>
-
-<pre><code>    sudo apt-get install wine
-</code></pre>
-
-<p>[4]</p>
-
-<pre><code>    sudo apt-get install winetricks
+    sudo apt-get install winetricks
 </code></pre>
 
 <p>To use wine,we need to configure first using following command on terminal:</p>

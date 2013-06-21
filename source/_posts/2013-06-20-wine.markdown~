@@ -11,13 +11,13 @@ With Wine, we can install and run these applications just like we do in Windows.
 
 <h2>Installation Steps for Wine in ubuntu:</h2>
 
-[1]
+
         sudo add-apt-repository ppa:ubuntu-wine/ppa
-[2]
+
         sudo apt-get update
-[3]
+
         sudo apt-get install wine
-[4]
+
         sudo apt-get install winetricks
 
 	
